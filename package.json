@@ -1,7 +1,7 @@
 {
   "name": "react_app",
   "version": "0.1.0",
-  "homepage": "https://dianadi1609.github.io/FE_116/",
+  "homepage": "https://github.com/dianadi1609/newfood.git",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.3",
