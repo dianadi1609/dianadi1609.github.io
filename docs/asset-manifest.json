@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dianadi1609/dianadi1609.github.io.git/static/css/main.27ccd334.css",
-    "main.js": "/dianadi1609/dianadi1609.github.io.git/static/js/main.a90b2cc8.js",
+    "main.js": "/dianadi1609/dianadi1609.github.io.git/static/js/main.6260cd43.js",
     "static/media/chiken.png": "/dianadi1609/dianadi1609.github.io.git/static/media/chiken.037631f17316ff381b16.png",
     "static/media/article2.png": "/dianadi1609/dianadi1609.github.io.git/static/media/article2.486ee6a1c4f1fd067d70.png",
     "static/media/chef.png": "/dianadi1609/dianadi1609.github.io.git/static/media/chef.2e7d49c9d2b325bcd016.png",
@@ -55,10 +55,10 @@
     "static/media/facebook.svg": "/dianadi1609/dianadi1609.github.io.git/static/media/facebook.2b25978656d99530e8778ae2d7ea7978.svg",
     "static/media/menuIcon.svg": "/dianadi1609/dianadi1609.github.io.git/static/media/menuIcon.2b536f7dd577a3df6cc635deaf2b9e57.svg",
     "main.27ccd334.css.map": "/dianadi1609/dianadi1609.github.io.git/static/css/main.27ccd334.css.map",
-    "main.a90b2cc8.js.map": "/dianadi1609/dianadi1609.github.io.git/static/js/main.a90b2cc8.js.map"
+    "main.6260cd43.js.map": "/dianadi1609/dianadi1609.github.io.git/static/js/main.6260cd43.js.map"
   },
   "entrypoints": [
     "static/css/main.27ccd334.css",
-    "static/js/main.a90b2cc8.js"
+    "static/js/main.6260cd43.js"
   ]
 }
